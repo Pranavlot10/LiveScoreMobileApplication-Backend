@@ -1,0 +1,35 @@
+{
+  "name": "livescoreserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "cheerio": "^1.0.0",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "franc-min": "^6.2.0",
+    "fs": "^0.0.1-security",
+    "he": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "leven": "^4.0.0",
+    "moment-timezone": "^0.5.47",
+    "node-cache": "^5.1.2",
+    "node-schedule": "^2.1.1",
+    "nodemon": "^3.1.9",
+    "pg": "^8.14.1",
+    "puppeteer": "^24.4.0",
+    "redis": "^4.0.0",
+    "rss-parser": "^3.13.0",
+    "string-similarity": "^4.0.4"
+  },
+  "type": "module"
+}

@@ -1,0 +1,65 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.test
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Build output
+dist/
+build/
+
+# Debugging
+*.tgz
+.cache/
+coverage/
+
+# VSCode settings
+.vscode/
+
+# PM2 logs
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional eslint cache
+.eslintcache
+
+# Parcel-bundler cache
+.cache/
+
+# Next.js build
+.next/
+
+# SvelteKit
+.svelte-kit/
+
+# Remix build
+/build/
+
+# Binaries
+*.exe
+*.out
+*.app
+
+# Mac system files
+*.DS_Store
